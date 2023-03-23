@@ -1,2 +1,1 @@
-# twitter-airflow-data-engineering-project
-YouTube tutorial project
+# Twitter-Airflow-Data-Pipeline-Project
